@@ -120,9 +120,7 @@ Contributions, issues, and feature ideas are welcome.
 4. Push the branch: `git push origin feature/your-feature`
 5. Open a Pull Request
 
-## 👤 Author
 
-**ruthv1kkk**, [@ruthv1kkk](https://github.com/ruthv1kkk)
 
 ---
 
