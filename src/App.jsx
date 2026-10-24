@@ -69,7 +69,7 @@ function readSavedIssues() {
 function Brand() {
   return (
     <div className="brand-lockup">
-      <img className="sidebar-logo" src="/kdrishti-sidebar-logo.png" alt="K-Drishti" />
+      <img className="sidebar-logo" src={`${import.meta.env.BASE_URL}kdrishti-sidebar-logo.png`} alt="K-Drishti" />
     </div>
   )
 }
